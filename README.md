@@ -1,5 +1,9 @@
 ### Hi there 👋
+Perkenalkan nama saya **Vini Jumatul Fitri**.
 
+Saya seorang Mahasiswa di Politeknik Negeri Padang.
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/vini-jumatul-fitri-303190179/)ku ya.
 <!--
 **vinijf01/vinijf01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
