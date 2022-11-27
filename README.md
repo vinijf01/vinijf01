@@ -1,9 +1,9 @@
 ### Hi there 👋
-Perkenalkan nama saya **Vini Jumatul Fitri**.
+Introduce my name **Vini Jumatul Fitri**.
 
-Saya seorang Mahasiswa di Politeknik Negeri Padang.
+Someone who loves learning and technology. I am a learner, smart working and a team worker. I have good motivation to progress and develop. Besides that I have good communication and I am very easy to adapt to a new environment
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/vini-jumatul-fitri-303190179/)ku ya.
+If you are interested in getting to know me, please follow my [Linkedin](https://www.linkedin.com/in/vini-jumatul-fitri-303190179/) account.
 
 <p align="left">
 <a href="https://github.com/vinijf01">
